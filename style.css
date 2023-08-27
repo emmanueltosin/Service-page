@@ -12,6 +12,10 @@
     transition: .2s linear;
 
 }
+footer p{
+    text-align: center;
+    color: aliceblue;
+}
 .container{
     background-color:rebeccapurple/* linear-gradient(45deg, blueviolet, lightgreen) */ ;
     padding:15px 9% ;
@@ -76,4 +80,10 @@
     .container{
         padding:20px;
     }
+}
+ footer p{
+    text-align: center;
+    background-image: url(../bubbles.png);
+    color: rebeccapurple
+    
 }
